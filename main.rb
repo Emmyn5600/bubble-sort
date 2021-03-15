@@ -9,3 +9,5 @@ def bubble_sort(array)
   end
   return array
 end
+
+p bubble_sort([1,5,7,100,5,8,2,9])
