@@ -4,6 +4,8 @@
 
 > This is a project made with ruby to sort items inside of an array, it is composed of two methods. The first one sorts numerical items, and the other one sorts strings according to their number of letters, by using building blocks.
 
+[](bubble_sort_ani.gif)
+
 ## Built With
 
 - Ruby
